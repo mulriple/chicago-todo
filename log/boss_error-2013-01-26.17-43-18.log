@@ -1,0 +1,937 @@
+
+=INFO REPORT==== 26-Jan-2013::17:43:18 ===
+Starting Boss in production mode....
+
+=INFO REPORT==== 26-Jan-2013::17:43:18 ===
+Starting master services on 'todo@Mikhails-MacBook-Pro'
+
+=INFO REPORT==== 26-Jan-2013::17:43:18 ===
+SSL:[]
+
+=INFO REPORT==== 26-Jan-2013::17:43:18 ===
+Loading routes from "../todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+** Generic server <0.349.0> terminating 
+** Last message in was {route,"/"}
+** When Server state == {state,todo,[],200724,204821}
+** Reason for termination == 
+** {'module could not be loaded',
+       [{todo_home_controller,module_info,[exports],[]},
+        {boss_controller_lib,convert_params_to_tokens,3,
+            [{file,"src/boss/boss_controller_lib.erl"},{line,5}]},
+        {boss_router_controller,handle_call,3,
+            [{file,"src/boss/boss_router_controller.erl"},{line,73}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 26-Jan-2013::17:43:18 ===
+Loading routes from "../todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936211355 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+** Generic server <0.355.0> terminating 
+** Last message in was {route,"/"}
+** When Server state == {state,todo,[],208917,213012}
+** Reason for termination == 
+** {'module could not be loaded',
+       [{todo_home_controller,module_info,[exports],[]},
+        {boss_controller_lib,convert_params_to_tokens,3,
+            [{file,"src/boss/boss_controller_lib.erl"},{line,5}]},
+        {boss_router_controller,handle_call,3,
+            [{file,"src/boss/boss_router_controller.erl"},{line,73}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 26-Jan-2013::17:43:18 ===
+Loading routes from "../todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+** Generic server <0.360.0> terminating 
+** Last message in was {route,"/"}
+** When Server state == {state,todo,[],217108,221205}
+** Reason for termination == 
+** {'module could not be loaded',
+       [{todo_home_controller,module_info,[exports],[]},
+        {boss_controller_lib,convert_params_to_tokens,3,
+            [{file,"src/boss/boss_controller_lib.erl"},{line,5}]},
+        {boss_router_controller,handle_call,3,
+            [{file,"src/boss/boss_router_controller.erl"},{line,73}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 26-Jan-2013::17:43:18 ===
+Loading routes from "../todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+** Generic server <0.362.0> terminating 
+** Last message in was {route,"/"}
+** When Server state == {state,todo,[],225301,229396}
+** Reason for termination == 
+** {'module could not be loaded',
+       [{todo_home_controller,module_info,[exports],[]},
+        {boss_controller_lib,convert_params_to_tokens,3,
+            [{file,"src/boss/boss_controller_lib.erl"},{line,5}]},
+        {boss_router_controller,handle_call,3,
+            [{file,"src/boss/boss_router_controller.erl"},{line,73}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 26-Jan-2013::17:43:18 ===
+Loading routes from "../todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+** Generic server <0.365.0> terminating 
+** Last message in was {route,"/"}
+** When Server state == {state,todo,[],233492,237589}
+** Reason for termination == 
+** {'module could not be loaded',
+       [{todo_home_controller,module_info,[exports],[]},
+        {boss_controller_lib,convert_params_to_tokens,3,
+            [{file,"src/boss/boss_controller_lib.erl"},{line,5}]},
+        {boss_router_controller,handle_call,3,
+            [{file,"src/boss/boss_router_controller.erl"},{line,73}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 26-Jan-2013::17:43:18 ===
+Loading routes from "../todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /apple-touch-icon-precomposed.png [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:18 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+** Generic server <0.368.0> terminating 
+** Last message in was {route,"/"}
+** When Server state == {state,todo,[],241685,245780}
+** Reason for termination == 
+** {'module could not be loaded',
+       [{todo_home_controller,module_info,[exports],[]},
+        {boss_controller_lib,convert_params_to_tokens,3,
+            [{file,"src/boss/boss_controller_lib.erl"},{line,5}]},
+        {boss_router_controller,handle_call,3,
+            [{file,"src/boss/boss_router_controller.erl"},{line,73}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 26-Jan-2013::17:43:19 ===
+Loading routes from "../todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936211355 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+** Generic server <0.372.0> terminating 
+** Last message in was {route,"/"}
+** When Server state == {state,todo,[],249876,253973}
+** Reason for termination == 
+** {'module could not be loaded',
+       [{todo_home_controller,module_info,[exports],[]},
+        {boss_controller_lib,convert_params_to_tokens,3,
+            [{file,"src/boss/boss_controller_lib.erl"},{line,5}]},
+        {boss_router_controller,handle_call,3,
+            [{file,"src/boss/boss_router_controller.erl"},{line,73}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 26-Jan-2013::17:43:19 ===
+Loading routes from "../todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+** Generic server <0.375.0> terminating 
+** Last message in was {route,"/"}
+** When Server state == {state,todo,[],258069,262164}
+** Reason for termination == 
+** {'module could not be loaded',
+       [{todo_home_controller,module_info,[exports],[]},
+        {boss_controller_lib,convert_params_to_tokens,3,
+            [{file,"src/boss/boss_controller_lib.erl"},{line,5}]},
+        {boss_router_controller,handle_call,3,
+            [{file,"src/boss/boss_router_controller.erl"},{line,73}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 26-Jan-2013::17:43:19 ===
+Loading routes from "../todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+** Generic server <0.378.0> terminating 
+** Last message in was {route,"/"}
+** When Server state == {state,todo,[],266260,270357}
+** Reason for termination == 
+** {'module could not be loaded',
+       [{todo_home_controller,module_info,[exports],[]},
+        {boss_controller_lib,convert_params_to_tokens,3,
+            [{file,"src/boss/boss_controller_lib.erl"},{line,5}]},
+        {boss_router_controller,handle_call,3,
+            [{file,"src/boss/boss_router_controller.erl"},{line,73}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 26-Jan-2013::17:43:19 ===
+Loading routes from "../todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+** Generic server <0.381.0> terminating 
+** Last message in was {route,"/"}
+** When Server state == {state,todo,[],274453,278548}
+** Reason for termination == 
+** {'module could not be loaded',
+       [{todo_home_controller,module_info,[exports],[]},
+        {boss_controller_lib,convert_params_to_tokens,3,
+            [{file,"src/boss/boss_controller_lib.erl"},{line,5}]},
+        {boss_router_controller,handle_call,3,
+            [{file,"src/boss/boss_router_controller.erl"},{line,73}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 26-Jan-2013::17:43:19 ===
+Loading routes from "../todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+GET /poll/getUpdate/1359214936218184 [todo] 404 0ms
+
+=ERROR REPORT==== 26-Jan-2013::17:43:19 ===
+** Generic server <0.383.0> terminating 
+** Last message in was {route,"/"}
+** When Server state == {state,todo,[],282644,286741}
+** Reason for termination == 
+** {'module could not be loaded',
+       [{todo_home_controller,module_info,[exports],[]},
+        {boss_controller_lib,convert_params_to_tokens,3,
+            [{file,"src/boss/boss_controller_lib.erl"},{line,5}]},
+        {boss_router_controller,handle_call,3,
+            [{file,"src/boss/boss_router_controller.erl"},{line,73}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}

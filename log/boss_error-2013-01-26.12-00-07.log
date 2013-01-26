@@ -1,0 +1,92 @@
+
+=INFO REPORT==== 26-Jan-2013::12:00:07 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 26-Jan-2013::12:00:07 ===
+Starting master services on 'todo@Mikhails-MacBook-Pro'
+
+=INFO REPORT==== 26-Jan-2013::12:00:07 ===
+SSL:[]
+
+=INFO REPORT==== 26-Jan-2013::12:00:07 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::12:00:13 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::12:00:13 ===
+** Generic server <0.135.0> terminating 
+** Last message in was {route,"/"}
+** When Server state == {state,todo,[],28695,32792}
+** Reason for termination == 
+** {'module could not be loaded',
+       [{todo_home_controller,module_info,[exports],[]},
+        {boss_controller_lib,convert_params_to_tokens,3,
+            [{file,"src/boss/boss_controller_lib.erl"},{line,5}]},
+        {boss_router_controller,handle_call,3,
+            [{file,"src/boss/boss_router_controller.erl"},{line,73}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 26-Jan-2013::12:00:13 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::12:00:15 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::12:00:15 ===
+** Generic server <0.152.0> terminating 
+** Last message in was {route,"/"}
+** When Server state == {state,todo,[],36888,40983}
+** Reason for termination == 
+** {'module could not be loaded',
+       [{todo_home_controller,module_info,[exports],[]},
+        {boss_controller_lib,convert_params_to_tokens,3,
+            [{file,"src/boss/boss_controller_lib.erl"},{line,5}]},
+        {boss_router_controller,handle_call,3,
+            [{file,"src/boss/boss_router_controller.erl"},{line,73}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 26-Jan-2013::12:00:15 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::12:00:19 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::12:00:19 ===
+** Generic server <0.156.0> terminating 
+** Last message in was {route,"/"}
+** When Server state == {state,todo,[],45079,49176}
+** Reason for termination == 
+** {'module could not be loaded',
+       [{todo_home_controller,module_info,[exports],[]},
+        {boss_controller_lib,convert_params_to_tokens,3,
+            [{file,"src/boss/boss_controller_lib.erl"},{line,5}]},
+        {boss_router_controller,handle_call,3,
+            [{file,"src/boss/boss_router_controller.erl"},{line,73}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 26-Jan-2013::12:00:19 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::12:02:18 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::12:02:18 ===
+** Generic server <0.160.0> terminating 
+** Last message in was {route,"/"}
+** When Server state == {state,todo,["todo_home_controller"],53272,57367}
+** Reason for termination == 
+** {'module could not be loaded',
+       [{todo_home_controller,module_info,[exports],[]},
+        {boss_controller_lib,convert_params_to_tokens,3,
+            [{file,"src/boss/boss_controller_lib.erl"},{line,5}]},
+        {boss_router_controller,handle_call,3,
+            [{file,"src/boss/boss_router_controller.erl"},{line,73}]},
+        {gen_server,handle_msg,5,[{file,"gen_server.erl"},{line,588}]},
+        {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=INFO REPORT==== 26-Jan-2013::12:02:18 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....

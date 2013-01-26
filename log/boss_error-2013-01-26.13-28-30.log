@@ -1,0 +1,792 @@
+
+=INFO REPORT==== 26-Jan-2013::13:28:30 ===
+Starting Boss in development mode....
+
+=INFO REPORT==== 26-Jan-2013::13:28:30 ===
+Starting master services on 'todo@Mikhails-MacBook-Pro'
+
+=INFO REPORT==== 26-Jan-2013::13:28:30 ===
+SSL:[]
+
+=INFO REPORT==== 26-Jan-2013::13:28:30 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:32 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:32 ===
+GET / [todo] 200 117ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:33 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:33 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:33 ===
+GET /todos/index [todo] 200 216ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:35 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:35 ===
+GET /poll/getUpdate/1359199712760469 [todo] 200 1911ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:35 ===
+POST /todos/index [todo] 200 128ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:35 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:35 ===
+GET / [todo] 200 131ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:36 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:36 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:36 ===
+GET /todos/index [todo] 200 229ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:40 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:40 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:40 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:40 ===
+PUT /todos/index/todo-1 [todo] 200 151ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:41 ===
+PUT /todos/index/todo-1 [todo] 200 150ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:41 ===
+GET /poll/getUpdate/1359199715792798 [todo] 200 127ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:51 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:51 ===
+GET / [todo] 200 136ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:51 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:51 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:52 ===
+GET /todos/index [todo] 200 251ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:53 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:53 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:54 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:54 ===
+PUT /todos/index/todo-1 [todo] 200 163ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:54 ===
+PUT /todos/index/todo-1 [todo] 200 173ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:54 ===
+GET /poll/getUpdate/1359199731444322 [todo] 200 133ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:55 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:55 ===
+GET / [todo] 200 135ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:55 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:56 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:56 ===
+GET /todos/index [todo] 200 269ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:59 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:28:59 ===
+PUT /todos/index/todo-1 [todo] 200 120ms
+
+=INFO REPORT==== 26-Jan-2013::13:28:59 ===
+GET /poll/getUpdate/1359199735675883 [todo] 200 3131ms
+
+=INFO REPORT==== 26-Jan-2013::13:29:00 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::13:29:00 ===
+{function_clause,
+    [{todo_todos_controller,index,
+         ['DELETE',
+          ["todo-1"],
+          {todo_todos_controller,
+              {simple_bridge_request_wrapper,mochiweb_request_bridge,
+                  {mochiweb_request,#Port<0.10695>,'DELETE',
+                      "/todos/index/todo-1",
+                      {1,1},
+                      {11,
+                       {"host",
+                        {'Host',"localhost:8001"},
+                        {"connection",
+                         {'Connection',"keep-alive"},
+                         {"accept",
+                          {'Accept',
+                              "application/json, text/javascript, */*; q=0.01"},
+                          nil,
+                          {"accept-encoding",
+                           {'Accept-Encoding',"gzip,deflate,sdch"},
+                           {"accept-charset",
+                            {'Accept-Charset',
+                                "windows-1251,utf-8;q=0.7,*;q=0.3"},
+                            nil,nil},
+                           {"accept-language",
+                            {'Accept-Language',"en-US,en;q=0.8"},
+                            nil,nil}}},
+                         {"cookie",
+                          {'Cookie',
+                              "_HG-V4_session_development=9193ae426ad6c3557d70438f5f1b5431; _selfplagiarism_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWQzYzdmMjI3MDg1NjdmYWJkYjdiZDExNmIyZjhkNmMxBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXFIMUN6UXBmVjZsT3NXSldaREhERDlHREgraEZWaE9PaFBGNGx2bVNzbnc9BjsARkkiEnVwbG9hZGVyX25hbWUGOwBGSSIKdmVzc2kGOwBU--0692b353788bedcf2db933398ded0900d854c957; _uhrs_service_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTQ1N2U5ZDYxODUzNGJjNzMwYjYxNjY3ZmY2ODM0ZDc1BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMTVGcnh3cWUzbXB3bm5xelAvNFgvQ2RBVHd0Ukt1NGhmbC8zWXpRZkd3Uzg9BjsARg%3D%3D--83fb32b79e334b82f881eb6613410d35c2025db1; _battle2012_session=BAh7CUkiD3Nlc3Npb25faWQGOgZFRkkiJTY1NmE4M2FhOTZkZjIxNjc4YjEyNzQ0NjBmMTAzZmUxBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMU1RUmY2RTI0d3UwWHBHMUJuY1YwRUovYTREMFFmaVZOS1F0b1dHWHh5RWs9BjsARkkiGXdhcmRlbi51c2VyLnVzZXIua2V5BjsAVFsISSIJVXNlcgY7AEZbBmkGSSIiJDJhJDEwJEJxNFZaR1Q3WXZsbnNmWFV6MGpNVWUGOwBUSSIKZmxhc2gGOwBGbzolQWN0aW9uRGlzcGF0Y2g6OkZsYXNoOjpGbGFzaEhhc2gJOgpAdXNlZG86CFNldAY6CkBoYXNoewA6DEBjbG9zZWRGOg1AZmxhc2hlc3sIOgtub3RpY2UwOgx3YXJuaW5nMDoMbWVzc2FnZTA6CUBub3cw--1baca6991c051d20df953d852eeee800e0bbdf5d; _forexclusives_dev_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTI3YWQ0NjQyMDYwYzE0ZGJiYWU1YjEyZGViNGVlNzVlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUlEbktndTYzaCtrZUQwdHUyWno4d0JSZWtpR2lmQVJSN2xHZE1yQytza0E9BjsARg%3D%3D--9ee3923ce0edde6dbf988b539535d6c2a24e2909; i18next=en-US; _clickworker_profile_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTdkOWU4ZjIxNzJhNWI0MDdhZDk0MTIxNGZlMjNlOTg1BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUdlVXZCUE4vZ0IxTVFpdnFTd3VlY2VOVlBROExEUVdobFpLeFM2YkVYblE9BjsARg%3D%3D--111537ade817e56fb30faf4cbb2fb406e822d3c4; i18next_profile_app=en; _boss_session=20ea58206b1dde04f57881b990a2b866f13d003c"},
+                          nil,nil}},
+                        {"origin",
+                         {"Origin","http://localhost:8001"},
+                         nil,
+                         {"x-requested-with",
+                          {"X-Requested-With","XMLHttpRequest"},
+                          {"user-agent",
+                           {'User-Agent',
+                               "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.56 Safari/537.17"},
+                           {"referer",
+                            {'Referer',"http://localhost:8001/"},
+                            nil,nil},
+                           nil},
+                          nil}}}}},
+                  false,[],[],none},
+              "20ea58206b1dde04f57881b990a2b866f13d003c"}],
+         []},
+     {boss_web_controller,execute_action,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,785}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,528}]},
+     {boss_web_controller,process_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,517}]},
+     {timer,tc,3,[{file,"timer.erl"},{line,194}]},
+     {boss_web_controller,build_dynamic_response,4,
+         [{file,"src/boss/boss_web_controller.erl"},{line,451}]},
+     {mochiweb_http,headers,5,[{file,"src/mochiweb_http.erl"},{line,90}]},
+     {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=ERROR REPORT==== 26-Jan-2013::13:29:00 ===
+DELETE /todos/index/todo-1 [todo] 500 124ms
+
+=INFO REPORT==== 26-Jan-2013::13:29:01 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:29:02 ===
+GET / [todo] 200 144ms
+
+=INFO REPORT==== 26-Jan-2013::13:29:02 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:29:02 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:29:02 ===
+GET /todos/index [todo] 200 232ms
+
+=INFO REPORT==== 26-Jan-2013::13:29:09 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=ERROR REPORT==== 26-Jan-2013::13:29:09 ===
+{function_clause,
+    [{todo_todos_controller,index,
+         ['DELETE',
+          ["todo-1"],
+          {todo_todos_controller,
+              {simple_bridge_request_wrapper,mochiweb_request_bridge,
+                  {mochiweb_request,#Port<0.10695>,'DELETE',
+                      "/todos/index/todo-1",
+                      {1,1},
+                      {11,
+                       {"host",
+                        {'Host',"localhost:8001"},
+                        {"connection",
+                         {'Connection',"keep-alive"},
+                         {"accept",
+                          {'Accept',
+                              "application/json, text/javascript, */*; q=0.01"},
+                          nil,
+                          {"accept-encoding",
+                           {'Accept-Encoding',"gzip,deflate,sdch"},
+                           {"accept-charset",
+                            {'Accept-Charset',
+                                "windows-1251,utf-8;q=0.7,*;q=0.3"},
+                            nil,nil},
+                           {"accept-language",
+                            {'Accept-Language',"en-US,en;q=0.8"},
+                            nil,nil}}},
+                         {"cookie",
+                          {'Cookie',
+                              "_HG-V4_session_development=9193ae426ad6c3557d70438f5f1b5431; _selfplagiarism_session=BAh7CEkiD3Nlc3Npb25faWQGOgZFRkkiJWQzYzdmMjI3MDg1NjdmYWJkYjdiZDExNmIyZjhkNmMxBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMXFIMUN6UXBmVjZsT3NXSldaREhERDlHREgraEZWaE9PaFBGNGx2bVNzbnc9BjsARkkiEnVwbG9hZGVyX25hbWUGOwBGSSIKdmVzc2kGOwBU--0692b353788bedcf2db933398ded0900d854c957; _uhrs_service_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTQ1N2U5ZDYxODUzNGJjNzMwYjYxNjY3ZmY2ODM0ZDc1BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMTVGcnh3cWUzbXB3bm5xelAvNFgvQ2RBVHd0Ukt1NGhmbC8zWXpRZkd3Uzg9BjsARg%3D%3D--83fb32b79e334b82f881eb6613410d35c2025db1; _battle2012_session=BAh7CUkiD3Nlc3Npb25faWQGOgZFRkkiJTY1NmE4M2FhOTZkZjIxNjc4YjEyNzQ0NjBmMTAzZmUxBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMU1RUmY2RTI0d3UwWHBHMUJuY1YwRUovYTREMFFmaVZOS1F0b1dHWHh5RWs9BjsARkkiGXdhcmRlbi51c2VyLnVzZXIua2V5BjsAVFsISSIJVXNlcgY7AEZbBmkGSSIiJDJhJDEwJEJxNFZaR1Q3WXZsbnNmWFV6MGpNVWUGOwBUSSIKZmxhc2gGOwBGbzolQWN0aW9uRGlzcGF0Y2g6OkZsYXNoOjpGbGFzaEhhc2gJOgpAdXNlZG86CFNldAY6CkBoYXNoewA6DEBjbG9zZWRGOg1AZmxhc2hlc3sIOgtub3RpY2UwOgx3YXJuaW5nMDoMbWVzc2FnZTA6CUBub3cw--1baca6991c051d20df953d852eeee800e0bbdf5d; _forexclusives_dev_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTI3YWQ0NjQyMDYwYzE0ZGJiYWU1YjEyZGViNGVlNzVlBjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUlEbktndTYzaCtrZUQwdHUyWno4d0JSZWtpR2lmQVJSN2xHZE1yQytza0E9BjsARg%3D%3D--9ee3923ce0edde6dbf988b539535d6c2a24e2909; i18next=en-US; _clickworker_profile_session=BAh7B0kiD3Nlc3Npb25faWQGOgZFRkkiJTdkOWU4ZjIxNzJhNWI0MDdhZDk0MTIxNGZlMjNlOTg1BjsAVEkiEF9jc3JmX3Rva2VuBjsARkkiMUdlVXZCUE4vZ0IxTVFpdnFTd3VlY2VOVlBROExEUVdobFpLeFM2YkVYblE9BjsARg%3D%3D--111537ade817e56fb30faf4cbb2fb406e822d3c4; i18next_profile_app=en; _boss_session=20ea58206b1dde04f57881b990a2b866f13d003c"},
+                          nil,nil}},
+                        {"origin",
+                         {"Origin","http://localhost:8001"},
+                         nil,
+                         {"x-requested-with",
+                          {"X-Requested-With","XMLHttpRequest"},
+                          {"user-agent",
+                           {'User-Agent',
+                               "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5) AppleWebKit/537.17 (KHTML, like Gecko) Chrome/24.0.1312.56 Safari/537.17"},
+                           {"referer",
+                            {'Referer',"http://localhost:8001/"},
+                            nil,nil},
+                           nil},
+                          nil}}}}},
+                  false,[],[],none},
+              "20ea58206b1dde04f57881b990a2b866f13d003c"}],
+         []},
+     {boss_web_controller,execute_action,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,785}]},
+     {boss_web_controller,process_dynamic_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,528}]},
+     {boss_web_controller,process_request,5,
+         [{file,"src/boss/boss_web_controller.erl"},{line,517}]},
+     {timer,tc,3,[{file,"timer.erl"},{line,194}]},
+     {boss_web_controller,build_dynamic_response,4,
+         [{file,"src/boss/boss_web_controller.erl"},{line,451}]},
+     {mochiweb_http,headers,5,[{file,"src/mochiweb_http.erl"},{line,90}]},
+     {proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,227}]}]}
+
+=ERROR REPORT==== 26-Jan-2013::13:29:09 ===
+DELETE /todos/index/todo-1 [todo] 500 134ms
+
+=INFO REPORT==== 26-Jan-2013::13:30:12 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:30:12 ===
+GET / [todo] 200 131ms
+
+=INFO REPORT==== 26-Jan-2013::13:30:12 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:30:12 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:30:12 ===
+GET /todos/index [todo] 200 245ms
+
+=INFO REPORT==== 26-Jan-2013::13:30:15 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:30:15 ===
+DELETE /todos/index/todo-1 [todo] 200 127ms
+
+=INFO REPORT==== 26-Jan-2013::13:30:18 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:30:18 ===
+GET / [todo] 200 130ms
+
+=INFO REPORT==== 26-Jan-2013::13:30:18 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:30:18 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:30:18 ===
+GET /todos/index [todo] 200 233ms
+
+=INFO REPORT==== 26-Jan-2013::13:30:27 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:30:27 ===
+GET / [todo] 200 133ms
+
+=INFO REPORT==== 26-Jan-2013::13:30:27 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:30:27 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:30:28 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:30:28 ===
+GET /todos/index [todo] 200 225ms
+
+=INFO REPORT==== 26-Jan-2013::13:30:30 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:30:30 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:30:30 ===
+POST /todos/index [todo] 200 134ms
+
+=INFO REPORT==== 26-Jan-2013::13:30:30 ===
+GET /poll/getUpdate/1359199818161426 [todo] 200 2578ms
+
+=INFO REPORT==== 26-Jan-2013::13:30:30 ===
+GET /poll/getUpdate/1359199827756246 [todo] 200 134ms
+
+=INFO REPORT==== 26-Jan-2013::13:31:41 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:31:41 ===
+GET / [todo] 200 159ms
+
+=INFO REPORT==== 26-Jan-2013::13:31:41 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:31:41 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:31:42 ===
+GET /todos/index [todo] 200 205ms
+
+=INFO REPORT==== 26-Jan-2013::13:31:57 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:31:58 ===
+GET / [todo] 200 136ms
+
+=INFO REPORT==== 26-Jan-2013::13:31:58 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:31:58 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:31:58 ===
+GET /todos/index [todo] 200 232ms
+
+=INFO REPORT==== 26-Jan-2013::13:32:01 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:32:01 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:32:01 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:32:01 ===
+PUT /todos/index/todo-7 [todo] 200 163ms
+
+=INFO REPORT==== 26-Jan-2013::13:32:01 ===
+PUT /todos/index/todo-7 [todo] 200 172ms
+
+=INFO REPORT==== 26-Jan-2013::13:32:01 ===
+GET /poll/getUpdate/1359199918041149 [todo] 200 136ms
+
+=INFO REPORT==== 26-Jan-2013::13:32:05 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:32:05 ===
+GET / [todo] 200 134ms
+
+=INFO REPORT==== 26-Jan-2013::13:32:05 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:32:05 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:32:06 ===
+GET /todos/index [todo] 200 237ms
+
+=INFO REPORT==== 26-Jan-2013::13:32:16 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:32:16 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:32:16 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:32:16 ===
+PUT /todos/index/todo-7 [todo] 200 162ms
+
+=INFO REPORT==== 26-Jan-2013::13:32:16 ===
+PUT /todos/index/todo-7 [todo] 200 172ms
+
+=INFO REPORT==== 26-Jan-2013::13:32:16 ===
+GET /poll/getUpdate/1359199925411438 [todo] 200 137ms
+
+=INFO REPORT==== 26-Jan-2013::13:34:28 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:34:29 ===
+GET / [todo] 200 135ms
+
+=INFO REPORT==== 26-Jan-2013::13:34:29 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:34:29 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:34:29 ===
+GET /todos/index [todo] 200 246ms
+
+=INFO REPORT==== 26-Jan-2013::13:34:32 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:34:32 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:34:32 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:34:32 ===
+PUT /todos/index/todo-7 [todo] 200 168ms
+
+=INFO REPORT==== 26-Jan-2013::13:34:32 ===
+PUT /todos/index/todo-7 [todo] 200 176ms
+
+=INFO REPORT==== 26-Jan-2013::13:34:32 ===
+GET /poll/getUpdate/1359200069024702 [todo] 200 132ms
+
+=INFO REPORT==== 26-Jan-2013::13:34:36 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:34:36 ===
+GET / [todo] 200 132ms
+
+=INFO REPORT==== 26-Jan-2013::13:34:36 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:34:36 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:34:37 ===
+GET /todos/index [todo] 200 222ms
+
+=INFO REPORT==== 26-Jan-2013::13:34:40 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:34:40 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:34:40 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:34:40 ===
+PUT /todos/index/todo-7 [todo] 200 177ms
+
+=INFO REPORT==== 26-Jan-2013::13:34:40 ===
+PUT /todos/index/todo-7 [todo] 200 172ms
+
+=INFO REPORT==== 26-Jan-2013::13:34:40 ===
+GET /poll/getUpdate/1359200076563431 [todo] 200 141ms
+
+=INFO REPORT==== 26-Jan-2013::13:34:49 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:34:49 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:34:49 ===
+PUT /todos/index/todo-7 [todo] 200 151ms
+
+=INFO REPORT==== 26-Jan-2013::13:34:49 ===
+PUT /todos/index/todo-7 [todo] 200 155ms
+
+=INFO REPORT==== 26-Jan-2013::13:34:54 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:34:54 ===
+GET / [todo] 200 143ms
+
+=INFO REPORT==== 26-Jan-2013::13:34:54 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:35:00 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:35:00 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:35:00 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:35:00 ===
+PUT /todos/index/todo-7 [todo] 200 152ms
+
+=INFO REPORT==== 26-Jan-2013::13:35:00 ===
+PUT /todos/index/todo-7 [todo] 200 158ms
+
+=INFO REPORT==== 26-Jan-2013::13:35:00 ===
+GET /poll/getUpdate/1359200094398328 [todo] 200 131ms
+
+=INFO REPORT==== 26-Jan-2013::13:35:15 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:35:15 ===
+GET / [todo] 200 127ms
+
+=INFO REPORT==== 26-Jan-2013::13:35:15 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:35:16 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:35:16 ===
+GET /todos/index [todo] 200 200ms
+
+=INFO REPORT==== 26-Jan-2013::13:35:30 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:35:30 ===
+GET /poll/getUpdate/1359200115549846 [todo] 200 14749ms
+
+=INFO REPORT==== 26-Jan-2013::13:35:30 ===
+POST /todos/index [todo] 200 125ms
+
+=INFO REPORT==== 26-Jan-2013::13:35:43 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:35:43 ===
+GET / [todo] 200 130ms
+
+=INFO REPORT==== 26-Jan-2013::13:35:44 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:35:44 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:35:44 ===
+GET /todos/index [todo] 200 217ms
+
+=INFO REPORT==== 26-Jan-2013::13:36:35 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:36:35 ===
+GET / [todo] 200 135ms
+
+=INFO REPORT==== 26-Jan-2013::13:36:35 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:36:35 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:36:35 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:36:35 ===
+GET /todos/index [todo] 200 249ms
+
+=INFO REPORT==== 26-Jan-2013::13:36:37 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:36:37 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:36:37 ===
+GET / [todo] 200 145ms
+
+=INFO REPORT==== 26-Jan-2013::13:36:37 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:36:37 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:36:37 ===
+GET /todos/index [todo] 200 241ms
+
+=INFO REPORT==== 26-Jan-2013::13:36:41 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:36:41 ===
+GET /poll/getUpdate/1359200197314491 [todo] 200 4316ms
+
+=INFO REPORT==== 26-Jan-2013::13:36:41 ===
+POST /todos/index [todo] 200 126ms
+
+=INFO REPORT==== 26-Jan-2013::13:39:43 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:39:43 ===
+GET / [todo] 200 134ms
+
+=INFO REPORT==== 26-Jan-2013::13:39:44 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:39:44 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:39:44 ===
+GET /todos/index [todo] 200 208ms
+
+=INFO REPORT==== 26-Jan-2013::13:39:45 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:39:45 ===
+GET / [todo] 200 133ms
+
+=INFO REPORT==== 26-Jan-2013::13:39:46 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:39:46 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:39:46 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:39:46 ===
+GET /todos/index [todo] 200 234ms
+
+=INFO REPORT==== 26-Jan-2013::13:39:57 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:39:57 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:39:57 ===
+GET /poll/getUpdate/1359200383665551 [todo] 200 11258ms
+
+=INFO REPORT==== 26-Jan-2013::13:39:57 ===
+POST /todos/index [todo] 200 133ms
+
+=INFO REPORT==== 26-Jan-2013::13:39:57 ===
+GET /poll/getUpdate/1359200385829563 [todo] 200 128ms
+
+=INFO REPORT==== 26-Jan-2013::13:40:03 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:40:03 ===
+PUT /todos/index/todo-22 [todo] 200 118ms
+
+=INFO REPORT==== 26-Jan-2013::13:40:54 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:40:54 ===
+GET / [todo] 200 132ms
+
+=INFO REPORT==== 26-Jan-2013::13:40:54 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:40:54 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:40:54 ===
+GET /todos/index [todo] 200 215ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:33 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:33 ===
+GET / [todo] 200 132ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:34 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:34 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:34 ===
+GET /todos/index [todo] 200 233ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:37 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:37 ===
+GET / [todo] 200 131ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:37 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:37 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:37 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:37 ===
+GET /todos/index [todo] 200 237ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:40 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:40 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:40 ===
+PUT /todos/index/todo-22 [todo] 200 132ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:40 ===
+GET /poll/getUpdate/1359200493979402 [todo] 200 2685ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:40 ===
+GET /poll/getUpdate/1359200497215963 [todo] 200 130ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:51 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:51 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:51 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:51 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:51 ===
+PUT /todos/index/todo-21 [todo] 200 258ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:51 ===
+PUT /todos/index/todo-7 [todo] 200 255ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:51 ===
+PUT /todos/index/todo-20 [todo] 200 261ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:51 ===
+PUT /todos/index/todo-22 [todo] 200 258ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:53 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:53 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:53 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:53 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:53 ===
+DELETE /todos/index/todo-20 [todo] 200 227ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:53 ===
+DELETE /todos/index/todo-21 [todo] 200 238ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:53 ===
+DELETE /todos/index/todo-22 [todo] 200 239ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:53 ===
+DELETE /todos/index/todo-7 [todo] 200 241ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:56 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:56 ===
+GET / [todo] 200 138ms
+
+=INFO REPORT==== 26-Jan-2013::13:41:57 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:57 ===
+Loading routes from "/Users/mikhailbortnyk/develop/mine/chicagobone/todo/priv/todo.routes" ....
+
+=INFO REPORT==== 26-Jan-2013::13:41:58 ===
+GET /todos/index [todo] 200 232ms
